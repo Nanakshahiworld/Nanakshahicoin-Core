@@ -1,7 +1,7 @@
 Nanakshahicoin Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/nanakshahicoin-project/nanakshahicoin.svg?branch=master)](https://travis-ci.org/nanakshahicoin-project/nanakshahicoin)
+[![Build Status](https://travis-ci.com/nanakshahicoin-project/nanakshahicoin.svg?branch=master)](https://travis-ci.com/nanakshahicoin-project/nanakshahicoin)
 
 https://nanakshahicoin.com
 
